@@ -5,8 +5,11 @@ I used the online retail dataset from the UCI Machine Learning Repository for ex
 This notebook covers:
 
 1.Data Cleaning
+
 2.Exploartory Data Analysis
+
 3.RFM Analysis
+
 4.K-Means Clustering
 
 # Insights
